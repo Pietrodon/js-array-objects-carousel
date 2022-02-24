@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.img-principale{
+    position: relative;
+}
+
+.img-secondaria{
+    width: 135px;
+    height: 60px;
+    position: absolute;
+    left: 696px;
+    bottom: 529px;
+    
+}
